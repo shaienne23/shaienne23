@@ -1,7 +1,7 @@
 - 👋 Olá, Sou a Shay,
-- 👀 Estou interessada na area de codificação back end
-- 🌱 Atualmente estou aprendendo um pouco mais na area de tecnologia,
-- 📫 How to reach me in/shaienne-oliveira-santos-8b34a211a
+- 👀 Estou interessada na area de codificação back end,
+- 🌱 Atualmente estou aprendendo um pouco mais sobre Java com foco em back end,
+- 📫 Como chegar até mim add meu linkedin shaienne-oliveira-santos-8b34a211a
 
 <!---
 shaienne23/shaienne23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
