@@ -17,6 +17,7 @@ As Linguagens de Programação que estou trabalhando no momento são:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+[![My Skills](https://skillicons.dev/icons?i=js,express,git,github,py,vscode,nodejs)](https://skillicons.dev)
 
 Habilidades
 
