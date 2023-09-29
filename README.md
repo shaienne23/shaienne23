@@ -1,6 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0084&height=120&section=header"/>
+<h1>
+    <a href="https://github.com/shaienne23">
+        <span>:hibiscus:</span>
+        <span>Shaienne Oliveira</span>
+    </a>
+    <a href="https://git.io/typing-svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0084&size=35&center=true&vCenter=true&width=1000&lines=Olá+Bem+Vindo,;Eu+sou+a+Shaienne;Visite+tambem+meu+Perfil+no+Linkedin!:%29)](https://git.io/typing-svg)
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+
+</h1>
 
 💼 Sou  uma profissional da área administrativa, acumulando mais de 10 anos de experiência, sempre empenhada na resolução e aprimoramento dos desafios que me são apresentados. Possuo expertise em coordenação, gestão de equipes e também na área financeira. A minha trajetória tem sido pautada pela busca contínua da excelência e pelo compromisso em contribuir positivamente para o crescimento e sucesso das organizações com as quais tenho a oportunidade de colaborar.
 
@@ -15,8 +23,6 @@ Conecte-se comigo.
 
 As Linguagens de Programação que estou trabalhando no momento são:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 [![My Skills](https://skillicons.dev/icons?i=js,express,git,github,py,vscode,nodejs)](https://skillicons.dev)
 
 Habilidades
