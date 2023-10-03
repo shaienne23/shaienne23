@@ -25,10 +25,6 @@ As Linguagens de Programação que estou trabalhando no momento são:
 
 [![My Skills](https://skillicons.dev/icons?i=js,express,git,github,py,vscode,nodejs)](https://skillicons.dev)
 
-Habilidades
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shaienne23&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 Ferramentas
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -43,9 +39,10 @@ Ferramentas
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-GitHub Status 
+Habilidades
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shaienne23&theme=cobalt&locale=pt_BR)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shaienne23&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 <p  class="Profile Views Badge"  align="left"> 
 <img  src="https://komarev.com/ghpvc/?username=shaienne23&label=Profile%20views&color=FF0084&style=for-the-badge"  alt="shaienne23" />
