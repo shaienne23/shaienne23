@@ -47,5 +47,7 @@ GitHub Status
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shaienne23&theme=cobalt&locale=pt_BR)](https://git.io/streak-stats)
 
-
+<p  class="Profile Views Badge"  align="left"> 
+<img  src="https://komarev.com/ghpvc/?username=shaienne23&label=Profile%20views&color=FF0084&style=for-the-badge"  alt="shaienne23" />
+</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0084&height=120&section=footer"/>
