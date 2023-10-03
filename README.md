@@ -43,6 +43,9 @@ Habilidades
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shaienne23&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaienne23&show_icons=true&theme=transparent) 
+
+***
 
 <p  class="Profile Views Badge"  align="left"> 
 <img  src="https://komarev.com/ghpvc/?username=shaienne23&label=Profile%20views&color=FF0084&style=for-the-badge"  alt="shaienne23" />
