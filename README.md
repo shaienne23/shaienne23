@@ -10,11 +10,11 @@
 
 </h1>
 
-💼 Sou  uma profissional da área administrativa, acumulando mais de 10 anos de experiência, sempre empenhada na resolução e aprimoramento dos desafios que me são apresentados. Possuo expertise em coordenação, gestão de equipes e também na área financeira. A minha trajetória tem sido pautada pela busca contínua da excelência e pelo compromisso em contribuir positivamente para o crescimento e sucesso das organizações com as quais tenho a oportunidade de colaborar.
+💼 Com mais de 10 anos de experiência na área administrativa, tenho expertise em coordenação, gestão de equipes e finanças. Busco a excelência e contribuir para o sucesso das organizações.
 
-🌱No momento, estou seguindo com entusiasmo a minha paixão pela tecnologia ao cursar o bacharelado em Engenharia de Software. Além dos meus estudos acadêmicos, estou concentrada no aprimoramento das habilidades em desenvolvimento backend, com foco especial em Javascript. Além disso, estou dedicando tempo ao estudo de Python e à área de Ciência de Dados, buscando ampliar meu conhecimento e competências nesses campos promissores.
+🌱 Atualmente, estudo Engenharia de Software e me concentro no Desenvolvimento de Software Backend, Javascript, Node JS, Git, Python, SQL e Postgres para ampliar minhas competências.
 
-🛰 Sou motivada por projetos inovadores e desafiadores, sempre buscando explorar novas possibilidades e encontrar soluções criativas. Estou constantemente em busca de oportunidades que me permitam aplicar meu conhecimento técnico e minha paixão por tecnologia. Acredito que a colaboração em ambientes dinâmicos e estimulantes é fundamental para o crescimento mútuo e o sucesso compartilhado.
+🛰 Busco projetos inovadores, desafios e soluções criativas. Procuro oportunidades para aplicar meu conhecimento técnico e paixão por tecnologia, acreditando na colaboração em ambientes dinâmicos para o crescimento mútuo e sucesso compartilhado.
 
 Conecte-se comigo.
 
