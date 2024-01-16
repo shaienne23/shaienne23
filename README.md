@@ -12,9 +12,9 @@
 
 💼 Com mais de 10 anos de experiência na área administrativa, tenho expertise em coordenação, gestão de equipes e finanças. Busco a excelência e contribuir para o sucesso das organizações.
 
-🌱 Atualmente, estudo Engenharia de Software e me concentro no Desenvolvimento de Software Backend, Javascript, Node JS, Git, Python, SQL e Postgres para ampliar minhas competências.
+🌱 Atualmente, estudo Engenharia de Software e me concentro no Desenvolvimento de Software Backend, Javascript, Node JS, Java, SQL e Postgres para ampliar minhas competências.
 
-🛰 Busco projetos inovadores, desafios e soluções criativas. Procuro oportunidades para aplicar meu conhecimento técnico e paixão por tecnologia, acreditando na colaboração em ambientes dinâmicos para o crescimento mútuo e sucesso compartilhado.
+🛰 Busco projetos inovadores, desafios e soluções criativas. Para a consolidação dos meus conhecimentos adquiridos.
 
 Conecte-se comigo.
 
@@ -32,11 +32,15 @@ Ferramentas
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
 
 
 Habilidades
