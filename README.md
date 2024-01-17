@@ -23,7 +23,7 @@ Conecte-se comigo.
 
 As Linguagens de Programação que estou trabalhando no momento são:
 
-[![My Skills](https://skillicons.dev/icons?i=js,express,git,github,py,vscode,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,mysql,postman,idea,js,nodejs,express,git,github,postgres,vscode)](https://skillicons.dev)
 
 Ferramentas
 
