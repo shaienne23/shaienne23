@@ -23,8 +23,8 @@ Conecte-se comigo.
 
 As Linguagens de Programação que estou trabalhando no momento são:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,mysql,postman,idea,js,nodejs,express,git,github,postgres,vscode)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,mysql,postman,idea,jenkins,js,nodejs,express,git,github,postgres,vscode)](https://skillicons.dev)<img 
+          
 Ferramentas
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -40,9 +40,7 @@ Ferramentas
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-
-
-
+![Snake animation](https://github.com/shaienne23/shaienne23/blob/output/github-contribution-grid-snake.svg)
 Habilidades
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shaienne23&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
