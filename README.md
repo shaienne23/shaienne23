@@ -19,7 +19,7 @@
 Conecte-se comigo.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/shaienneoliveira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/shaienneoliveira/) [![Salesforce](https://img.shields.io/badge/Salesforce-000?style=for-the-badge&logo=salesforce&logoColor=0E76A8)](https://www.salesforce.com/trailblazer/shaienneoliveira)
 
 As Linguagens de Programação que estou trabalhando no momento são:
 
