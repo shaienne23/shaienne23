@@ -12,7 +12,7 @@
 
 💼 Com mais de 10 anos de experiência na área administrativa, tenho expertise em coordenação, gestão de equipes e finanças. Busco a excelência e contribuir para o sucesso das organizações.
 
-🌱 Atualmente, estudo Engenharia de Software e me concentro no Desenvolvimento de Software Backend, Javascript, Node JS, Java, SQL e Postgres para ampliar minhas competências.
+🌱 Atualmente, estudo Engenharia de Software e me concentro no Desenvolvimento de Software Back-end, Javascript, Java, SQL, SOQL, Apex, LWC, HTML5, CSS e Postgres para ampliar minhas competências.
 
 🛰 Busco projetos inovadores, desafios e soluções criativas. Para a consolidação dos meus conhecimentos adquiridos.
 
