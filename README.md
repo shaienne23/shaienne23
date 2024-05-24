@@ -46,6 +46,7 @@ Ferramentas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaienne23&show_icons=true&theme=transparent) 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=shaienne23&theme=cobalt&locale=pt_BR)](https://git.io/streak-stats)
 ***
 
 <p  class="Profile Views Badge"  align="left"> 
