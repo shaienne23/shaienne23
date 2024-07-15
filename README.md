@@ -7,8 +7,10 @@
     <a href="https://git.io/typing-svg">
 </h1>
 <img align="right" alt="Developer GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" height="380" width="600">
+        
 🌟 Com mais de 10 anos de experiência na área administrativa, possuo expertise em coordenação, gestão de equipes e finanças, buscando sempre a excelência e contribuindo para o sucesso das organizações.
 
+        
 📚 Atualmente, estou aprofundando meus estudos em Engenharia de Software, com foco no desenvolvimento de software back-end. Tenho experiência em Javascript, Java, SQL, SOQL, Apex, LWC, HTML5, CSS e Postgres, ampliando continuamente minhas competências técnicas.
 
 💼 Além disso, atuo como desenvolvedora Salesforce, aplicando meu conhecimento em soluções criativas e inovadoras para enfrentar desafios no desenvolvimento de aplicações empresariais.
