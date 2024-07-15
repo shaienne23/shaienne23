@@ -1,20 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0084&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a34a1&height=120&section=header"/>
 <h1>
     <a href="https://github.com/shaienne23">
         <span>:hibiscus:</span>
         <span>Shaienne Oliveira</span>
     </a>
     <a href="https://git.io/typing-svg">
-
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
-
 </h1>
+<img align="right" alt="Developer GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" height="380" width="600">
+🌟 Com mais de 10 anos de experiência na área administrativa, possuo expertise em coordenação, gestão de equipes e finanças, buscando sempre a excelência e contribuindo para o sucesso das organizações.
 
-💼 Com mais de 10 anos de experiência na área administrativa, tenho expertise em coordenação, gestão de equipes e finanças. Busco a excelência e contribuir para o sucesso das organizações.
+📚 Atualmente, estou aprofundando meus estudos em Engenharia de Software, com foco no desenvolvimento de software back-end. Tenho experiência em Javascript, Java, SQL, SOQL, Apex, LWC, HTML5, CSS e Postgres, ampliando continuamente minhas competências técnicas.
 
-🌱 Atualmente, estudo Engenharia de Software e me concentro no Desenvolvimento de Software Back-end, Javascript, Java, SQL, SOQL, Apex, LWC, HTML5, CSS e Postgres para ampliar minhas competências.
+💼 Além disso, atuo como desenvolvedora Salesforce, aplicando meu conhecimento em soluções criativas e inovadoras para enfrentar desafios no desenvolvimento de aplicações empresariais.
 
-🛰 Busco projetos inovadores, desafios e soluções criativas. Para a consolidação dos meus conhecimentos adquiridos.
+
 
 Conecte-se comigo.
 
@@ -52,4 +51,4 @@ Ferramentas
 <p  class="Profile Views Badge"  align="left"> 
 <img  src="https://komarev.com/ghpvc/?username=shaienne23&label=Profile%20views&color=FF0084&style=for-the-badge"  alt="shaienne23" />
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0084&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a34a1&height=120&section=footer"/>
