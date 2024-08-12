@@ -27,7 +27,7 @@ Conhecimentos em Salesforce
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/shaienne23/shaienne23/blob/main/salesforce-conjunto.png" alt="Imagem de Salesforce" width="300" height="52" />
     <a href="https://www.salesforce.com/trailblazer/shaienneoliveira" target="_blank" style="margin-left: 10px;">
-        <img src="https://github.com/shaienne23/shaienne23/blob/main/trailhead.png" alt="Trailhead" width="52" height="52" />
+        <img src="https://github.com/shaienne23/shaienne23/blob/main/Trailhead.png" alt="Trailhead" width="52" height="52" />
     </a>
 </div>
 
