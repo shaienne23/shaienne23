@@ -22,8 +22,6 @@ Conecte-se comigo.
 
 Conhecimentos em Salesforce
 
-<img src="https://github.com/shaienne23/shaienne23/blob/main/salesforce-conjunto.png" alt="Imagem de Salesforce" width="300" height="52" />
-
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/shaienne23/shaienne23/blob/main/salesforce-conjunto.png" alt="Imagem de Salesforce" width="300" height="52" />
     <a href="https://www.salesforce.com/trailblazer/shaienneoliveira" target="_blank" style="margin-left: 10px;">
