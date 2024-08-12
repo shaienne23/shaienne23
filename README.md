@@ -6,16 +6,23 @@
     </a>
     <a href="https://git.io/typing-svg">
 </h1>
-<img align="right" alt="Developer GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" height="380" width="600">
-        
-🌟 Com mais de 10 anos de experiência na área administrativa, possuo expertise em coordenação, gestão de equipes e finanças, buscando sempre a excelência e contribuindo para o sucesso das organizações.
+<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 30px; align-items: center;">
+    <!-- Coluna 1: Imagem GIF -->
+    <div>
+        <img align="right" alt="Developer GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" height="330" width="550">
+    </div>
+    <!-- Coluna 2: Texto -->
+    <div style="text-align: right;">
+        🌟 Com mais de 10 anos de experiência na área administrativa, possuo expertise em coordenação, gestão de equipes e finanças, buscando sempre a excelência e contribuindo para o sucesso das organizações.
+        <br><br>
+        📚 Atualmente, estou aprofundando meus estudos em Engenharia de Software, com foco no desenvolvimento de software back-end. Tenho experiência em Javascript, Java, SQL, SOQL, Apex, LWC, HTML5, CSS e Postgres, ampliando continuamente minhas competências técnicas.
+        <br><br>
+        💼 Além disso, atuo como desenvolvedora Salesforce, aplicando meu conhecimento em soluções criativas e inovadoras para enfrentar desafios no desenvolvimento de aplicações empresariais.
+        <br><br>
+        Conecte-se comigo.
+    </div>
+</div>
 
-        
-📚 Atualmente, estou aprofundando meus estudos em Engenharia de Software, com foco no desenvolvimento de software back-end. Tenho experiência em Javascript, Java, SQL, SOQL, Apex, LWC, HTML5, CSS e Postgres, ampliando continuamente minhas competências técnicas.
-
-💼 Além disso, atuo como desenvolvedora Salesforce, aplicando meu conhecimento em soluções criativas e inovadoras para enfrentar desafios no desenvolvimento de aplicações empresariais.
-
-Conecte-se comigo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/shaienneoliveira/) [![Salesforce](https://img.shields.io/badge/Salesforce-000?style=for-the-badge&logo=salesforce&logoColor=0E76A8)](https://www.salesforce.com/trailblazer/shaienneoliveira)
 
@@ -62,11 +69,7 @@ Ferramentas
 </div>
 
 
-
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaienne23&show_icons=true&theme=transparent) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaienne23&show_icons=true&theme=cobalt) 
 
 
 
