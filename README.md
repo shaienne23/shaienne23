@@ -24,6 +24,15 @@ Conhecimentos em Salesforce
 
 <img src="https://github.com/shaienne23/shaienne23/blob/main/salesforce-conjunto.png" alt="Imagem de Salesforce" width="300" height="52" />
 
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/shaienne23/shaienne23/blob/main/salesforce-conjunto.png" alt="Imagem de Salesforce" width="300" height="52" />
+    <a href="https://www.salesforce.com/trailblazer/shaienneoliveira" target="_blank" style="margin-left: 10px;">
+        <img src="https://github.com/shaienne23/shaienne23/blob/main/trailhead.png" alt="Trailhead" width="52" height="52" />
+    </a>
+</div>
+
+
+
 As Linguagens de Programação que estou trabalhando no momento são:
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,mysql,postman,idea,jenkins,js,nodejs,express,git,github,postgres,vscode)](https://skillicons.dev)
